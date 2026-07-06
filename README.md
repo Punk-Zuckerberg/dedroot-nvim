@@ -1,6 +1,6 @@
 # DedRoot Neovim IDE
 
-Personal Neovim configuration for C, Rust, Linux, macOS and terminal workflow.
+Personal Neovim configuration for C, Rust, Linux, UNIX and terminal workflow.
 
 ## Installation
 
